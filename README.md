@@ -4,7 +4,7 @@ PonyDB is an in-memory graph database for node.js, based on [HeliosJS](http://en
 In order to traverse the graph, PonyDB uses a [Gremlin](http://gremlin.tinkerpop.com) inspired graph traversal language to query, analyze and manipulate the graph. Gremlin is an open source project maintained by [TinkerPop](http://tinkerpop.com). For more information on Gremlin, see the [Gremlin wiki](https://github.com/tinkerpop/gremlin/wiki).
 
 ##Author
-[Morris Singer](github.com/morrissinger), for [Cengage Learning, Inc.](github.com/cengage)
+[Morris Singer](http://github.com/morrissinger), for [Cengage Learning, Inc.](http://github.com/cengage)
 
 ##License
 
