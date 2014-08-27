@@ -1,0 +1,36 @@
+{
+  "name": "ponydb",
+  "version": "1.0.0",
+  "description": "In-memory graph database for node.js",
+  "main": "ponydb.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "grunt mochaTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morris-singer-cengage/ponydb.git"
+  },
+  "keywords": [
+    "graph",
+    "database",
+    "node",
+    "graphdb",
+    "gremlin"
+  ],
+  "author": "Morris Singer",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "q": "^1.0.1",
+    "request": "^2.40.0",
+    "sax": "^0.6.0",
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {
+    "grunt-mocha-test": "^0.11.0",
+    "mocha": "^1.21.4"
+  }
+}
